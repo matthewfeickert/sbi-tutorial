@@ -1,4 +1,4 @@
-# sbi-tutorial
+# SBI tutorial at [AI+Science Summer School 2025](https://aissai.cnrs.fr/en/aiscience-summer-school-2025-university-of-chicago-center-in-paris/)
 
 A simple sbi tutorial
 
