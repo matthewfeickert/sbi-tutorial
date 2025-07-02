@@ -2,6 +2,8 @@
 
 A simple sbi tutorial
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cranmer/sbi-tutorial/HEAD)
+
 ## Prerequisite Software
 
 ### Pixi
