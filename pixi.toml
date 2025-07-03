@@ -6,7 +6,7 @@ platforms = ["osx-arm64", "linux-64", "win-64"]
 version = "0.1.0"
 
 [tasks.start]
-cmd = "jupyter-lab"
+cmd = "jupyter notebook raindrop_simulator.ipynb"
 
 [dependencies]
 python = ">=3.13.5,<3.14"

@@ -51,7 +51,7 @@ git clone https://github.com/cranmer/sbi-tutorial.git
 cd sbi-tutorial
 ```
 
-3. Run
+3. Run the notebook
 
 ```
 pixi run start
